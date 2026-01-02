@@ -1,0 +1,27 @@
+1️⃣ What did I understand today?
+
+Today I learned what searching really means in DSA.
+Searching is the process of finding whether an element exists, and if it does, where it exists.
+
+I also understood that searching does not require the data to be sorted. Sorting only helps make searching faster, but searching itself can be done even on unsorted data.
+
+2️⃣ What idea felt important or new?
+
+The most important idea for me was that linear search exists for a reason.
+Even though it checks elements one by one, it is useful when data is unsorted, small, or when we need to search only once.
+
+I also learned that faster algorithms are not always the best choice. The best algorithm depends on the situation, not just speed.
+
+3️⃣ One example that helped me understand
+
+Searching for something like earrings or an object in garbage helped me understand linear search.
+Since nothing is arranged, the only way is to look through things one by one.
+
+4️⃣ One mistake or confusion I noticed
+
+Earlier, I used to think that faster algorithms should always be preferred.
+Today I realized that preparing data (like sorting) can sometimes take more time than the search itself.
+
+5️⃣ One sentence reflection
+
+Today I learned that choosing the right algorithm depends on context, not just on how fast it looks.
